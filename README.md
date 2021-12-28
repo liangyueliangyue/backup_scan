@@ -1,2 +1,2 @@
 # backup_scan
-backupfile scan python
+一个写来自己用的简单备份扫描脚本，大佬勿喷
